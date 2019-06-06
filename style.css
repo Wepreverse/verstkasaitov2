@@ -1,0 +1,23 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.main{
+
+}
+.box{
+	text-align: center;
+	font-family: Arial;
+	margin-left:3%;
+}
+.flex{
+	display:flex;
+}
+h3{
+	margin-top:10%;
+	font-size:26px;
+	font-weight: 100
+}
+p{
+	margin-top:5%
+}
